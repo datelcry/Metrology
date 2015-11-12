@@ -1,0 +1,36 @@
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe.config
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csprojResolveAssemblyReference.cache
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.MainForm.resources
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.Properties.Resources.resources
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csproj.GenerateResource.Cache
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe.config
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csprojResolveAssemblyReference.cache
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.MainForm.resources
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.Properties.Resources.resources
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csproj.GenerateResource.Cache
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe.config
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csprojResolveAssemblyReference.cache
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.MainForm.resources
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.Properties.Resources.resources
+C:\Users\egor\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csproj.GenerateResource.Cache
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe.config
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.exe
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\bin\Debug\МЕТРОЛОГИЯ.pdb
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csprojResolveAssemblyReference.cache
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.MainForm.resources
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.Properties.Resources.resources
+C:\Users\Егор\SkyDrive\2 курс\1 семестр\МЕТРОЛОГИЯ\МЕТРОЛОГИЯ — копия\МЕТРОЛОГИЯ\obj\Debug\МЕТРОЛОГИЯ.csproj.GenerateResource.Cache
